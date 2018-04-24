@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">4work</string>
+    <string name="back">Voltar</string>
+    <string name="confirm_password">Confirmar Senha</string>
     <string name="enter">Entrar</string>
     <string name="email">Email</string>
     <string name="login">Login</string>
     <string name="password">Senha</string>
+    <string name="save">Salvar</string>
+    <string name="sign_up">Cadastre-se</string>
 </resources>
