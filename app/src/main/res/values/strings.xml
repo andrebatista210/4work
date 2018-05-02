@@ -1,10 +1,14 @@
 <resources>
+    <string name="msg_empty_field">Campo obrigatório</string>
+    <string name="msg_invalid_email">Email inválido</string>
+
     <string name="app_name">4work</string>
     <string name="back">Voltar</string>
     <string name="confirm_password">Confirmar Senha</string>
     <string name="enter">Entrar</string>
     <string name="email">Email</string>
     <string name="login">Login</string>
+    <string name="or">Ou</string>
     <string name="password">Senha</string>
     <string name="save">Salvar</string>
     <string name="sign_up">Cadastre-se</string>
